@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Correção de redação</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+    <header>
+        <div id="logos">
+            <img src="img/Logo-J_F.webp" alt="Logo institutojef" id="logo-instituto">
+            <h2 class="logo"><a href="gedaijef.com" target="_blank">GEDAI</a></h2>
+        </div>
+        <h1>Correção de redação</h1>
+    </header>
+    <main>
+        <div id="opcoes">
+            <div id="tipo-redacao">
+                <h3>Selecione o tipo de redação</h3>
+                <section id="container-opc-tipo-redacao">
+                    <button class="opc-tipo-redacao">Dissertativa-Argumentativa</button>
+                    <button class="opc-tipo-redacao">Narrativa</button>
+                    <button class="opc-tipo-redacao">Carta</button>
+                    <button class="opc-tipo-redacao">Descritiva</button>
+                    <button class="opc-tipo-redacao">Dissertativa</button>
+                    <button class="opc-tipo-redacao">Jornalística</button>
+                    <button class="opc-tipo-redacao">Injuntiva</button>
+                    <button class="opc-tipo-redacao">Expositiva</button>
+                    <button class="opc-tipo-redacao">Carta aberta</button>
+                    <button class="opc-tipo-redacao">Carta ao leitor</button>
+                    <button class="opc-tipo-redacao">Editorial</button>
+                    <button class="opc-tipo-redacao">Crônica</button>
+                    <button class="opc-tipo-redacao">Ensaio</button>
+                    <button class="opc-tipo-redacao">Relatório</button>
+                </section>
+            </div>
+            <div id="redacao-bruta">
+                <form id="form">
+                    <label for="file" class="labelFile">
+                        <img id="icone-download" src="img/icone-download.svg" alt="ícone de download">
+                        <p>Anexe o arquivo de redação aqui!</p>
+                    </label>
+                    <input class="input" name="text" id="file" type="file" />
+
+                    <select name="" id="tipo-correcao">
+                        <option value="" selected hidden>Tipo de correção</option>
+                        <option value="">Gramática</option>
+                        <option value="">Pontuação</option>
+                    </select>
+
+                    <div id="container-contexto">
+                        <label for="contexto-textarea">Contexto</label>
+                        <textarea name="contexto-textarea" cols="30" rows="10"
+                            placeholder="Digite o contexto da redação"></textarea>
+                    </div>
+                    <input type="submit" id="btn-corrigir" value="Corrigir redação">
+                </form>
+            </div>
+        </div>
+        <div id="correcao">
+            <h3>Correção</h3>
+            <div id="texto-corrigido">
+                <img src="img/icone-article.svg" alt="" id="icone-article">
+
+                <p>Você verá a correção aqui!</p>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+Objetivo: Seguindo a gramática normativa da língua inglesa, utilize os seguintes critérios para avaliar a redação fornecida abaixo de '##Redação:'.
+
+- Ortografia (Spelling): Verifique se as palavras estão escritas corretamente em inglês, seguindo as regras ortográficas e assegurando o uso adequado de homófonos (como 'their' vs. 'there').
+
+- Pontuação (Punctuation): Avalie o uso correto de vírgulas, pontos finais, dois-pontos, ponto e vírgula, travessões e aspas, garantindo que a estrutura e as pausas das frases estejam claras e apropriadas.
+
+- Concordância Verbal (Subject-Verb Agreement): Verifique se o sujeito e o verbo concordam em número e pessoa, como em 'He writes' (correto) vs. 'He write' (incorreto).
+
+- Regência Verbal e Nominal (Preposition Use): Certifique-se de que os verbos e substantivos estão acompanhados das preposições corretas em inglês, como em 'listen to music' em vez de 'listen music'.
+
+- Coesão (Cohesion): Avalie o uso de pronomes, conjunções e expressões de transição para conectar as frases e parágrafos de forma lógica e fluida, evitando repetições desnecessárias ou falta de clareza.
+
+- Clareza e Precisão (Clarity and Precision): Verifique se as frases estão claras e evitam ambiguidades, usando palavras e construções gramaticais adequadas ao contexto.
+
+- Variedade Sintática (Syntactic Variety): Observe o uso de frases simples e compostas, garantindo uma boa variedade de construções gramaticais e evitando o excesso de frases muito curtas ou muito longas.
+
+- Consistência dos Tempos Verbais (Consistency in Verb Tenses): Verifique se os tempos verbais estão corretos e coerentes ao longo do texto, sem mudanças bruscas de tempo.
+
+- Separação de Parágrafos (Paragraph Structure): Avalie se há uma separação adequada dos parágrafos, de modo que cada parágrafo contenha uma ideia clara e distinta, contribuindo para a coesão e a organização geral do texto.
+
+Para cada erro encontrado, retorne o feedback no formato de lista, indicando:
+
+1. O tipo de erro ou aspecto a ser corrigido (ex: Estrutura, Uso de Adjetivos, Coerência).
+2. A linha onde o erro foi encontrado.
+3. A parte específica do texto que está incorreta, seguida de uma explicação breve do que está errado.
