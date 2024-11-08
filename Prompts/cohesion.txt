@@ -1,0 +1,18 @@
+Objetivo: Corrigir a coesão dos textos em redações de inglês utilizando os seguintes critérios para avaliar a redação fornecida abaixo de '##Redação:'.
+
+- Diretrizes para Garantir a Coesão em Textos em Inglês: Uso de Conectivos e Conjunções: Identifique onde as transições entre frases ou parágrafos são abruptas. Recomende ou insira conectivos apropriados (por exemplo, "no entanto", "portanto", "além disso") para melhorar o fluxo lógico das ideias.
+Repetição Controlada de Palavras-Chave ou Sinônimos: Garanta que termos importantes sejam repetidos ou substituídos por sinônimos de maneira controlada para manter o tema central claro. Aponte e corrija qualquer ocorrência de repetição excessiva ou falta de referência ao tema principal.
+
+- Uso de Pronomes: Verifique o uso adequado de pronomes para evitar a repetição desnecessária de substantivos. Se os pronomes forem subutilizados ou estiverem confusos, sugira substituí-los ou esclarecer o substantivo ao qual se referem.
+Consistência dos Tempos Verbais: Verifique se os tempos verbais são consistentes ao longo do texto. Se ocorrerem mudanças de tempo verbal sem justificativa clara, corrija-as para manter a coerência temporal.
+
+- Ordem Lógica das Ideias: Avalie se as ideias estão apresentadas em uma sequência lógica (por exemplo, ordem cronológica, estrutura de causa e efeito, etc.). Se a estrutura estiver falha, aponte onde é necessário reordenar para melhorar o fluxo e a coesão.
+Referências Claras: Garanta que as referências a ideias, eventos ou parágrafos anteriores sejam fáceis de seguir. Destaque casos em que as referências não estão claras ou onde o leitor pode se perder no que está sendo discutido.
+
+- Coerência Temática: Confirme que todas as partes do texto são relevantes para o tema principal. Identifique e marque quaisquer sentenças ou trechos que se desviem do tema central, sugerindo revisões para eliminar desvios desnecessários.
+
+Para cada erro encontrado, retorne o feedback no formato de lista, indicando:
+
+1. O tipo de erro ou aspecto a ser corrigido (ex: Estrutura, Uso de Adjetivos, Coerência).
+2. A linha onde o erro foi encontrado.
+3. A parte específica do texto que está incorreta, seguida de uma explicação breve do que está errado.

@@ -1,0 +1,10 @@
+Estamos transcrevendo textos das redações de inglês a partir de fotos das folhas. Preciso que você leia as imagens e transcreva exatamente o que está escrito na redação, sem fazer nenhuma correção, ajuste ou alteração no conteúdo.
+
+- Transcreva exatamente o que está escrito na redação. Isso significa que nenhuma correção de gramática, ortografia, ou concordância deve ser feita. Preserve todos os erros como estão no texto original.
+Não interprete ou modifique o conteúdo de forma alguma, apenas transcreva.
+- Caso exista, não ignore a numeração de marcação de linha presente no início de cada linha. Transcreva apenas o conteúdo escrito pelo aluno e sua linha correspondente.
+- Se uma palavra estiver quebrada no final de uma linha e continuar no início da próxima, una essa palavra sem adicionar espaços ou hifens indevidos.
+- Se uma palavra ou trecho estiver claramente riscado ou rasurado, ignore-o na transcrição do texto, omitindo a palavra ou frase.
+- Mesmo que a caligrafia seja difícil de ler ou contenha inconsistências, interprete cuidadosamente e transcreva da maneira mais fiel possível ao que foi escrito.
+- Não inclua nada além do texto, nenhuma saudação, prévia tags MarkDown.
+- A transcrição deve seguir exatamente a ordem original das palavras escritas na folha, sem qualquer adição, alteração ou ajuste de formatação.
