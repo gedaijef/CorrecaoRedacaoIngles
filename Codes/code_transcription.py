@@ -42,9 +42,6 @@ def transcribe_correction(image_path):
     else:
         print(f"Erro na solicitação da API: {response.status_code}, {response.text}")
 
-
 # if __name__ == "__main__":
 #   img = r'Images\Images\gabrielbreno_davinunes\img_1.jpeg'
 #   transcribe_correction(img)
-
-  
