@@ -33,9 +33,12 @@ def transcribe_correction(image_path):
 
     if response.status_code == 200:
         returnGPT_transcription = response.json()['choices'][0]['message']['content']
-        output_path = os.path.join("./Transcricao/Text", "transcription.txt")
+        output_path = os.path.join("Text", "transcription.txt")
 
         with open(output_path, "w", encoding="utf-8") as file:
+            file.write(returnGPT_transcription)
+
+        with open(output_path, "r", encoding="utf-8") as file:
             file.write(returnGPT_transcription)
 
         print("Transcrição salva com sucesso.")
@@ -44,6 +47,7 @@ def transcribe_correction(image_path):
 
 
 if __name__ == "__main__":
-  transcribe_correction()
+  img = r'Images\Images\gabrielbreno_davinunes\img_1.jpeg'
+  transcribe_correction(img)
 
   

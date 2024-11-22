@@ -12,7 +12,7 @@ load_dotenv()
 api_key = os.getenv("API_KEY")
 
 # função para mandar o prompt lido para a api da OpenAi e pegar o retorno
-def send_request(resquest_type, user_prompt, base64_image=None):
+def send_request(resquest_type, user_prompt, base64_image=None,text_file_path=None):
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key}"
@@ -41,13 +41,43 @@ def send_request(resquest_type, user_prompt, base64_image=None):
             ]
         }
    
-    else:
+    elif text_file_path:
+        # Lendo o conteúdo do arquivo de texto
+        with open(text_file_path, "r", encoding="utf-8") as file:
+            text_content = file.read()
+
         payload = {
-            "model": "gpt-4o-2024-08-06",
+            "model": "gpt-4o",
             "messages": [
                 {
                     "role": "user",
-                    "content": user_prompt
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": user_prompt
+                        },
+                        {
+                            "type": "text_file",
+                            "text_file_content": text_content
+                        }
+                    ]
+                }
+            ]
+        }
+
+        # Payload padrão caso apenas o prompt de texto seja fornecido
+    else:
+        payload = {
+            "model": "gpt-4o",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": user_prompt
+                        }
+                    ]
                 }
             ]
         }
