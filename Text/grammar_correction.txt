@@ -1,30 +1,23 @@
-1. Ortografia (Spelling)
-   - Linha 3: "Winnnie Verloc"
-     - Deveria ser "Winnie Verloc" (erro de digitação).
+1. Punctuation
+   - Line 5: "of English language"
+     - A period is missing at the end of the sentence: "...of English language."
 
-2. Pontuação (Punctuation)
-   - Linha 7: "January 2016"
-     - Deveria ter um ponto final após "January 2016": "January 2016."
-   - Linha 11: "Adolf Verloc an anarchist"
-     - Deveria ter uma vírgula após "Adolf Verloc": "Adolf Verloc, an anarchist"
-   - Linha 12: "attempt a on the Greenwich Observatory"
-     - Faltou dizer "bombing" ou "attack". Provavelmente, uma palavra foi omitida.
-   - Linha 13: "Which in turn uncovered"
-     - Deveria ser "which" em minúscula: "which in turn uncovered"
+2. Punctuation
+   - Line 10: "Adolf Verloc an anarchist"
+     - A comma should follow "Adolf Verloc": "Adolf Verloc, an anarchist..."
 
-3. Concordância Verbal (Subject-Verb Agreement)
-   - Linha 30: "Your investigation and interactions"
-     - Deveria ser "His investigation and interactions" mantendo a concordância com o sujeito "Commissioner Heat": "His investigation and interactions"
+3. Clarity and Precision
+   - Line 11: "attempt a on the Greenwich Observatory,"
+     - The phrase is missing a word to clarify the intended meaning. Consider revising to "attempt an attack on the Greenwich Observatory,".
 
-4. Separação de Parágrafos (Paragraph Structure)
-   - Linha 5: "Year it was published: January 2016"
-     - A linha está isolada e poderia ser parte do parágrafo "Genre".
-   - Linha 8 a 20: Os personagens poderiam estar em um parágrafo separado para melhorar a organização e clareza, tornando mais evidente a separação entre o resumo da história e a descrição dos personagens.
+4. Punctuation
+   - Line 12: "Stevie winds up dead. Which in turn uncovered Verloc's endeavors,"
+     - The period should be replaced with a comma to connect the dependent clause: "Stevie winds up dead, which in turn uncovers Verloc's endeavors,..."
 
-5. Clareza e Precisão (Clarity and Precision)
-   - Linha 18: "is important for his role in the manufacture of explosives and for representing the most radical and inhumane face of anarchism in history."
-     - A frase poderia ser reescrita para clarificar a importância do Professor e sua representação: "is significant for his role in manufacturing explosives and for epitomizing the most radical and inhumane aspects of anarchism in history."
+5. Subject-Verb Agreement
+   - Line 26: "Your investigation and interactions with other characters help unravel the plot and connections between characters."
+     - "Your" should be "His" to match the third-person perspective of the rest of the paragraph: "His investigation and interactions..."
 
-6. Variedade Sintática (Syntactic Variety)
-   - Linha 35: "In addition to having parts that are obvious to predict, taking away all the immersion and impact that the story causes."
-     - Frase fragmentada. Poderia ser melhorada para fluidez e clareza: "Additionally, some parts are predictable, detracting from the story’s immersion and impact."
+6. Syntactic Variety
+   - Line 32: "The lack of rhythm in some parts makes the reading long. In addition to having parts that are obvious to predict, taking away all the immersion and impact that the story causes."
+     - These two sentences should be connected for better syntactic variety and flow, consider: "The lack of rhythm in some parts makes the reading long, in addition to having parts that are obvious to predict, which takes away all the immersion and impact that the story causes."

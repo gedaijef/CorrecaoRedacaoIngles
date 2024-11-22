@@ -40,6 +40,6 @@ def cohesion_correction(file):
     else:
         print(f"Erro na solicitação da API: {response.status_code}, {response.text}")
 
-if __name__ == "__main__":
-    file_name = r'Text\\transcription.txt'
-    cohesion_correction(file_name)
+# if __name__ == "__main__":
+#     file_name = r'Text\\transcription.txt'
+#     cohesion_correction(file_name)

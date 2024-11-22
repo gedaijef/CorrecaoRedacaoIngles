@@ -20,7 +20,7 @@ def grammar_correction(file):
     with open(file, "r") as arquivo:
         essay = arquivo.read()
     
-    essay = "##Redação: " + essay
+    essay = "##Essay: " + essay
     system_prompt = read_prompt("grammar")
     response = send_request("grammar", system_prompt, essay)
     
@@ -40,6 +40,6 @@ def grammar_correction(file):
     else:
         print(f"Erro na solicitação da API: {response.status_code}, {response.text}")
 
-if __name__ == "__main__":
-    file_name = r'Text\\transcription.txt'
-    grammar_correction(file_name)
+# if __name__ == "__main__":
+#     file_name = r'Text\\transcription.txt'
+#     grammar_correction(file_name)

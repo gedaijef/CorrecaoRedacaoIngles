@@ -1,28 +1,28 @@
-Objetivo: Seguindo a gramática normativa da língua inglesa, utilize os seguintes critérios para avaliar a redação fornecida abaixo de '##Redação:'.
+Objective: Following the normative grammar of the English language, use the following criteria to evaluate the essay provided below '##Essay:'.
 
-- Ortografia (Spelling): Verifique se as palavras estão escritas corretamente em inglês, seguindo as regras ortográficas e assegurando o uso adequado de homófonos (como 'their' vs. 'there'). Caso não existam problemas, não retorne nada para este tópico.
+- Spelling: Check if the words are spelled correctly in English, following orthographic rules and ensuring proper use of homophones (such as 'their' vs. 'there'). If there are no issues, do not return anything for this topic.
 
-- Pontuação (Punctuation): Avalie o uso correto de vírgulas, pontos finais, dois-pontos, ponto e vírgula, travessões e aspas, garantindo que a estrutura e as pausas das frases estejam claras e apropriadas. Caso não existam problemas, não retorne nada para este tópico.
+- Punctuation: Assess the correct use of commas, periods, colons, semicolons, dashes, and quotation marks, ensuring the structure and pauses in sentences are clear and appropriate. If there are no issues, do not return anything for this topic.
 
-- Concordância Verbal (Subject-Verb Agreement): Verifique se o sujeito e o verbo concordam em número e pessoa, como em 'He writes' (correto) vs. 'He write' (incorreto). Caso não existam problemas, não retorne nada para este tópico.
+- Subject-Verb Agreement: Verify whether the subject and verb agree in number and person, such as 'He writes' (correct) vs. 'He write' (incorrect). If there are no issues, do not return anything for this topic.
 
-- Regência Verbal e Nominal (Preposition Use): Certifique-se de que os verbos e substantivos estão acompanhados das preposições corretas em inglês, como em 'listen to music' em vez de 'listen music'. Caso não existam problemas, não retorne nada para este tópico.
+- Preposition Use: Ensure that verbs and nouns are accompanied by the correct prepositions in English, such as 'listen to music' instead of 'listen music'. If there are no issues, do not return anything for this topic.
 
-- Clareza e Precisão (Clarity and Precision): Verifique se as frases estão claras e evitam ambiguidades, usando palavras e construções gramaticais adequadas ao contexto. Caso não existam problemas, não retorne nada para este tópico.
+- Clarity and Precision: Check if the sentences are clear and avoid ambiguities, using words and grammatical constructions appropriate to the context. If there are no issues, do not return anything for this topic.
 
-- Variedade Sintática (Syntactic Variety): Observe o uso de frases simples e compostas, garantindo uma boa variedade de construções gramaticais e evitando o excesso de frases muito curtas ou muito longas. Caso não existam problemas, não retorne nada para este tópico.
+- Syntactic Variety: Observe the use of simple and compound sentences, ensuring a good variety of grammatical constructions and avoiding an excess of very short or very long sentences. If there are no issues, do not return anything for this topic.
 
-- Consistência dos Tempos Verbais (Consistency in Verb Tenses): Verifique se os tempos verbais estão corretos e coerentes ao longo do texto, sem mudanças bruscas de tempo. Caso não existam problemas, não retorne nada para este tópico.
+- Consistency in Verb Tenses: Verify whether the verb tenses are correct and consistent throughout the text, without abrupt changes in tense. If there are no issues, do not return anything for this topic.
 
-- Separação de Parágrafos (Paragraph Structure): Avalie se há uma separação adequada dos parágrafos, de modo que cada parágrafo contenha uma ideia clara e distinta, contribuindo para a coesão e a organização geral do texto. Caso não existam problemas, não retorne nada para este tópico.
+- Paragraph Structure: Evaluate whether the paragraphs are properly separated, so each paragraph contains a clear and distinct idea, contributing to the cohesion and general organization of the text. If there are no issues, do not return anything for this topic.
 
-Para cada erro encontrado, retorne o feedback no formato de lista, indicando:
+For each error found, return feedback in the following list format, indicating:
 
-1. O tipo de erro ou aspecto a ser corrigido (ex: Estrutura, Uso de Adjetivos, Coerência).
-2. A linha onde o erro foi encontrado.
-3. A parte específica do texto que está incorreta, seguida de uma explicação breve do que está errado.
+1. The type of error or aspect to be corrected (e.g., Structure, Use of Adjectives, Coherence).
+2. The line where the error was found.
+3. The specific part of the text that is incorrect, followed by a brief explanation of what is wrong.
 
-Exemplo de retorno onde é necessário apenas umas correção de Pontuação:
-1. Pontuação (Punctuation)
-   - Linha 8: "Roberto Martins a rich man for hire."
-     - Deveria ter uma vírgula após "Roberto Martins": "Roberto Martins, a rich man for hire."
+Example of a return where only one punctuation correction is necessary:
+1. Punctuation
+   - Line 8: "Roberto Martins a rich man for hire."
+     - A comma should follow "Roberto Martins": "Roberto Martins, a rich man for hire."

@@ -1,14 +1,11 @@
-1. Uso de Conectivos
-   - Linha 9: "His mission is to attempt a on the Greenwich Observatory, hoping it will prompt anarchist suppression by state forces."
-     - A transição após "attempt a" é abrupta e falta continuidade na ideia; o uso de uma conjunção é necessário. Sugestão: "His mission is to attempt an attack on the Greenwich Observatory, hoping it will prompt anarchist suppression by state forces."
+1. Use of Connectives and Conjunctions
+   - Line 9: "He enlists his brother-in-law Stevie to do the dirty work, but the plot goes awry and Stevie winds up dead. Which in turn uncovered Verloc's endeavors, and the tragic fates of his loved ones."
+     - The sentence "Which in turn uncovered Verloc's endeavors, and the tragic fates of his loved ones." is an incomplete sentence. It should be connected to the previous sentence for clarity: "He enlists his brother-in-law Stevie to do the dirty work, but the plot goes awry and Stevie winds up dead, which in turn uncovers Verloc's endeavors and the tragic fates of his loved ones."
 
-2. Uso de Pronomes
-   - Linha 27: "Your investigation and interactions with other characters help unravel the plot and connections between characters."
-     - O pronome possessivo "Your" foi incorretamente usado no lugar de "His", referindo-se ao Comissário Heat: "His investigation and interactions with other characters help unravel the plot and connections between them."
+2. Use of Pronouns
+   - Line 23: "Your investigation and interactions with other characters help unravel the plot and connections between characters."
+     - The possessive pronoun "Your" was incorrectly used instead of "His," referring to Commissioner Heat: "His investigation and interactions with other characters help unravel the plot and connections between them."
 
-3. Consistência dos Tempos Verbais
-   - Linha 12: "Which in turn uncovered Verloc's endeavors, and the tragic fates of his loved ones."
-     - A frase começa com "Which," indicando continuidade, mas o verbo "uncovered" está no passado enquanto o restante do parágrafo utiliza tempos verbais diferentes. A sugestão é: "Which in turn uncovers Verloc's endeavors, and the tragic fates of his loved ones."
-
-4. Ordem Lógica das Ideias
-   - Linha 16-22: As descrições dos personagens poderiam ser reorganizadas para uma melhor compreensão dos papéis importantes de cada um na história. Sugestão: Começar com "Mr. Verloc", seguido de "Winnie Verloc", depois "Stevie", seguido pelo "The Professor" e finalmente "Commissioner Heat" para refletir a importância na narrativa.
+3. Thematic Coherence
+   - Line 28: "The spy story is interesting and has potential, but it is quite slow at several points."
+     - The phrase "but it is quite slow at several points" feels abrupt and could benefit from a connective to better integrate it within the thematic evaluation: "The spy story is interesting and has potential; however, it is quite slow at several points."

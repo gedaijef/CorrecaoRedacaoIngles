@@ -1,26 +1,26 @@
-Objetivo: Seguindo as regras de coesão em redações de inglês, utilize os seguintes critérios para avaliar a redação fornecida abaixo de '##Redação:'.
+Objective: Following the principles of cohesion in English writing, use the following criteria to evaluate the essay provided below under '##Essay:'.
 
-- Uso de Conectivos e Conjunções: Verifique se as transições entre frases ou parágrafos são fluidas. Identifique onde as conexões são abruptas e recomende conectivos apropriados (por exemplo, "no entanto", "portanto", "além disso") para melhorar o fluxo lógico das ideias. Caso não existam problemas, não retorne nada para este tópico.
+- Use of Connectives and Conjunctions: Check if transitions between sentences or paragraphs are smooth. Identify where connections are abrupt and recommend appropriate connectives (e.g., "however," "therefore," "furthermore") to improve the logical flow of ideas. If there are no issues, do not return anything for this topic.
 
-- Repetição e Variedade de Palavras-Chave: Avalie o uso de palavras-chave e sinônimos. Identifique casos de repetição excessiva ou falta de referência ao tema principal e proponha alternativas que mantenham a clareza temática. Caso não existam problemas, não retorne nada para este tópico.
+- Repetition and Variety of Keywords: Assess the use of keywords and synonyms. Identify cases of excessive repetition or lack of reference to the main theme and propose alternatives to maintain thematic clarity. If there are no issues, do not return anything for this topic.
 
-- Uso de Pronomes: Certifique-se de que pronomes estão sendo utilizados de forma clara e precisa, evitando a repetição desnecessária de substantivos. Quando necessário, sugira correções para garantir a coesão textual. Caso não existam problemas, não retorne nada para este tópico.
+- Use of Pronouns: Ensure pronouns are used clearly and precisely, avoiding unnecessary repetition of nouns. When necessary, suggest corrections to ensure textual cohesion. If there are no issues, do not return anything for this topic.
 
-- Consistência dos Tempos Verbais: Verifique a uniformidade dos tempos verbais ao longo do texto. Aponte e corrija mudanças bruscas que possam comprometer a coerência temporal. Caso não existam problemas, não retorne nada para este tópico.
+- Verb Tense Consistency: Verify the uniformity of verb tenses throughout the text. Point out and correct abrupt changes that could compromise temporal coherence. If there are no issues, do not return anything for this topic.
 
-- Ordem Lógica das Ideias: Avalie se as ideias estão organizadas em uma sequência lógica (por exemplo, cronológica ou de causa e efeito, etc.). Identifique onde a reordenação pode melhorar o fluxo e a coesão. Caso não existam problemas, não retorne nada para este tópico.
+- Logical Order of Ideas: Evaluate whether the ideas are organized in a logical sequence (e.g., chronological, cause-and-effect, etc.). Identify where reordering might improve flow and cohesion. If there are no issues, do not return anything for this topic.
 
-- Referências Claras: Analise se as referências a eventos, ideias ou parágrafos anteriores são facilmente compreensíveis, destacando possíveis ambiguidades ou inconsistências. Caso não existam problemas, não retorne nada para este tópico.
+- Clear References: Analyze whether references to events, ideas, or earlier paragraphs are easily understandable, highlighting potential ambiguities or inconsistencies. If there are no issues, do not return anything for this topic.
 
-- Coerência Temática: Certifique-se de que todas as partes do texto são relevantes ao tema principal da redação. Identifique trechos que se desviam do tema e sugira revisões para eliminar desvios desnecessários. Caso não existam problemas, não retorne nada para este tópico.
+- Thematic Coherence: Ensure all parts of the text are relevant to the main theme of the essay. Identify sections that deviate from the theme and suggest revisions to eliminate unnecessary digressions. If there are no issues, do not return anything for this topic.
 
-Para cada problema encontrado, forneça o feedback no formato de lista, indicando:
+For each problem found, provide feedback in a list format, indicating:
 
-1. O tipo de erro ou aspecto a ser corrigido (ex: Conectivos, Consistência Temporal, Clareza).
-2. A linha onde o erro foi encontrado.
-3. A parte específica do texto que está incorreta, seguida de uma explicação breve do que está errado.
+1. The type of error or aspect to be corrected (e.g., Connectives, Temporal Consistency, Clarity).
+2. The line where the error was found.
+3. The specific part of the text that is incorrect, followed by a brief explanation of what is wrong.
 
-Exemplo de retorno onde é necessário apenas umas correção de Uso de Pronomes:
-1. Uso de Pronomes
-   - Linha 8: "Your investigation and interactions with other characters help unravel the plot and connections between characters."
-     - O pronome possessivo "Your" foi incorretamente usado no lugar de "His", referindo-se ao Comissário Heat: "His investigation and interactions with other characters help unravel the plot and connections between them." 
+Example of a response where only a pronoun usage correction is needed:
+1. Use of Pronouns
+   - Line 8: "Your investigation and interactions with other characters help unravel the plot and connections between characters."
+     - The possessive pronoun "Your" was incorrectly used instead of "His," referring to Commissioner Heat: "His investigation and interactions with other characters help unravel the plot and connections between them."
