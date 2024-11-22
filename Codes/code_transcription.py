@@ -26,19 +26,16 @@ def transcribe_correction(image_path):
         print("Erro: O arquivo deve ser uma imagem do tipo PNG ou JPEG.")
         return
 
-    user_prompt = read_prompt("transcription")
+    system_prompt = read_prompt("transcription")
     base64_image = convert_image(image_path)  # Certifique-se de que a função de conversão esteja correta
 
-    response = send_request("transcription", user_prompt, base64_image)
+    response = send_request("transcription", system_prompt, base64_image)
 
     if response.status_code == 200:
         returnGPT_transcription = response.json()['choices'][0]['message']['content']
         output_path = os.path.join("Text", "transcription.txt")
 
         with open(output_path, "w", encoding="utf-8") as file:
-            file.write(returnGPT_transcription)
-
-        with open(output_path, "r", encoding="utf-8") as file:
             file.write(returnGPT_transcription)
 
         print("Transcrição salva com sucesso.")

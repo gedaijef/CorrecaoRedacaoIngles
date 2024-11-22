@@ -1,0 +1,30 @@
+1. Ortografia (Spelling)
+   - Linha 3: "Winnnie Verloc"
+     - Deveria ser "Winnie Verloc" (erro de digitação).
+
+2. Pontuação (Punctuation)
+   - Linha 7: "January 2016"
+     - Deveria ter um ponto final após "January 2016": "January 2016."
+   - Linha 11: "Adolf Verloc an anarchist"
+     - Deveria ter uma vírgula após "Adolf Verloc": "Adolf Verloc, an anarchist"
+   - Linha 12: "attempt a on the Greenwich Observatory"
+     - Faltou dizer "bombing" ou "attack". Provavelmente, uma palavra foi omitida.
+   - Linha 13: "Which in turn uncovered"
+     - Deveria ser "which" em minúscula: "which in turn uncovered"
+
+3. Concordância Verbal (Subject-Verb Agreement)
+   - Linha 30: "Your investigation and interactions"
+     - Deveria ser "His investigation and interactions" mantendo a concordância com o sujeito "Commissioner Heat": "His investigation and interactions"
+
+4. Separação de Parágrafos (Paragraph Structure)
+   - Linha 5: "Year it was published: January 2016"
+     - A linha está isolada e poderia ser parte do parágrafo "Genre".
+   - Linha 8 a 20: Os personagens poderiam estar em um parágrafo separado para melhorar a organização e clareza, tornando mais evidente a separação entre o resumo da história e a descrição dos personagens.
+
+5. Clareza e Precisão (Clarity and Precision)
+   - Linha 18: "is important for his role in the manufacture of explosives and for representing the most radical and inhumane face of anarchism in history."
+     - A frase poderia ser reescrita para clarificar a importância do Professor e sua representação: "is significant for his role in manufacturing explosives and for epitomizing the most radical and inhumane aspects of anarchism in history."
+
+6. Variedade Sintática (Syntactic Variety)
+   - Linha 35: "In addition to having parts that are obvious to predict, taking away all the immersion and impact that the story causes."
+     - Frase fragmentada. Poderia ser melhorada para fluidez e clareza: "Additionally, some parts are predictable, detracting from the story’s immersion and impact."

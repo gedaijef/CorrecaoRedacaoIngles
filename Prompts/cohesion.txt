@@ -1,18 +1,26 @@
-Objetivo: Corrigir a coesão dos textos em redações de inglês utilizando os seguintes critérios para avaliar a redação fornecida abaixo de '##Redação:'.
+Objetivo: Seguindo as regras de coesão em redações de inglês, utilize os seguintes critérios para avaliar a redação fornecida abaixo de '##Redação:'.
 
-- Diretrizes para Garantir a Coesão em Textos em Inglês: Uso de Conectivos e Conjunções: Identifique onde as transições entre frases ou parágrafos são abruptas. Recomende ou insira conectivos apropriados (por exemplo, "no entanto", "portanto", "além disso") para melhorar o fluxo lógico das ideias.
-Repetição Controlada de Palavras-Chave ou Sinônimos: Garanta que termos importantes sejam repetidos ou substituídos por sinônimos de maneira controlada para manter o tema central claro. Aponte e corrija qualquer ocorrência de repetição excessiva ou falta de referência ao tema principal.
+- Uso de Conectivos e Conjunções: Verifique se as transições entre frases ou parágrafos são fluidas. Identifique onde as conexões são abruptas e recomende conectivos apropriados (por exemplo, "no entanto", "portanto", "além disso") para melhorar o fluxo lógico das ideias. Caso não existam problemas, não retorne nada para este tópico.
 
-- Uso de Pronomes: Verifique o uso adequado de pronomes para evitar a repetição desnecessária de substantivos. Se os pronomes forem subutilizados ou estiverem confusos, sugira substituí-los ou esclarecer o substantivo ao qual se referem.
-Consistência dos Tempos Verbais: Verifique se os tempos verbais são consistentes ao longo do texto. Se ocorrerem mudanças de tempo verbal sem justificativa clara, corrija-as para manter a coerência temporal.
+- Repetição e Variedade de Palavras-Chave: Avalie o uso de palavras-chave e sinônimos. Identifique casos de repetição excessiva ou falta de referência ao tema principal e proponha alternativas que mantenham a clareza temática. Caso não existam problemas, não retorne nada para este tópico.
 
-- Ordem Lógica das Ideias: Avalie se as ideias estão apresentadas em uma sequência lógica (por exemplo, ordem cronológica, estrutura de causa e efeito, etc.). Se a estrutura estiver falha, aponte onde é necessário reordenar para melhorar o fluxo e a coesão.
-Referências Claras: Garanta que as referências a ideias, eventos ou parágrafos anteriores sejam fáceis de seguir. Destaque casos em que as referências não estão claras ou onde o leitor pode se perder no que está sendo discutido.
+- Uso de Pronomes: Certifique-se de que pronomes estão sendo utilizados de forma clara e precisa, evitando a repetição desnecessária de substantivos. Quando necessário, sugira correções para garantir a coesão textual. Caso não existam problemas, não retorne nada para este tópico.
 
-- Coerência Temática: Confirme que todas as partes do texto são relevantes para o tema principal. Identifique e marque quaisquer sentenças ou trechos que se desviem do tema central, sugerindo revisões para eliminar desvios desnecessários.
+- Consistência dos Tempos Verbais: Verifique a uniformidade dos tempos verbais ao longo do texto. Aponte e corrija mudanças bruscas que possam comprometer a coerência temporal. Caso não existam problemas, não retorne nada para este tópico.
 
-Para cada erro encontrado, retorne o feedback no formato de lista, indicando:
+- Ordem Lógica das Ideias: Avalie se as ideias estão organizadas em uma sequência lógica (por exemplo, cronológica ou de causa e efeito, etc.). Identifique onde a reordenação pode melhorar o fluxo e a coesão. Caso não existam problemas, não retorne nada para este tópico.
 
-1. O tipo de erro ou aspecto a ser corrigido (ex: Estrutura, Uso de Adjetivos, Coerência).
+- Referências Claras: Analise se as referências a eventos, ideias ou parágrafos anteriores são facilmente compreensíveis, destacando possíveis ambiguidades ou inconsistências. Caso não existam problemas, não retorne nada para este tópico.
+
+- Coerência Temática: Certifique-se de que todas as partes do texto são relevantes ao tema principal da redação. Identifique trechos que se desviam do tema e sugira revisões para eliminar desvios desnecessários. Caso não existam problemas, não retorne nada para este tópico.
+
+Para cada problema encontrado, forneça o feedback no formato de lista, indicando:
+
+1. O tipo de erro ou aspecto a ser corrigido (ex: Conectivos, Consistência Temporal, Clareza).
 2. A linha onde o erro foi encontrado.
 3. A parte específica do texto que está incorreta, seguida de uma explicação breve do que está errado.
+
+Exemplo de retorno onde é necessário apenas umas correção de Uso de Pronomes:
+1. Uso de Pronomes
+   - Linha 8: "Your investigation and interactions with other characters help unravel the plot and connections between characters."
+     - O pronome possessivo "Your" foi incorretamente usado no lugar de "His", referindo-se ao Comissário Heat: "His investigation and interactions with other characters help unravel the plot and connections between them." 
